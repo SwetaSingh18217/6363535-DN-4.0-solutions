@@ -1,0 +1,9 @@
+.score-card {
+  background-color: #f0f8ff;
+  border: 1px solid #ccc;
+  padding: 20px;
+  margin: 30px auto;
+  width: 400px;
+  font-family: Arial, sans-serif;
+  box-shadow: 2px 2px 12px #aaa;
+}
